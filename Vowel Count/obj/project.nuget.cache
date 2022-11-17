@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQAAVjoB+pim5OHcamJqEzXk85qN9aAAOf0hjxmVi+4xXKS/XVRaUhEJS249hBrSeThtKv3R7OQRxf14ee+cQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chunchia.liang61\\RiderProjects\\Vowel Count\\Vowel Count\\Vowel Count.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
