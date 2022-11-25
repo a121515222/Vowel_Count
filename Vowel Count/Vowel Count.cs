@@ -2,20 +2,12 @@
 
 namespace Vowel_Count;
 
-static class VowelCount
+public static class VowelCount
 {
     public static int VowelCounter(string data)
     {
-        char[] dataSplit = data.ToLower().ToCharArray();
-        int countResult = 0;
-        foreach (var info in dataSplit)
-        {
-            if (info == 'a' || info == 'e' || info == 'i' || info == 'o' || info == 'u')
-            {
-                countResult++;
-            }
-        }
+        var dataSplit = data.ToLower().ToCharArray();
 
-        return countResult;
+        return dataSplit.Count(info => info is 'a' or 'e' or 'i' or 'o' or 'u');
     }
 }

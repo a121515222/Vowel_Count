@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel Count", "Vowel Count\Vowel Count.csproj", "{AD06BD22-0208-4554-A4A2-B8775693FECC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel Count UniTest", "Vowel Count UniTest\Vowel Count UniTest.csproj", "{96378BBF-E55F-43F7-9726-8669FFCEEB87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{AD06BD22-0208-4554-A4A2-B8775693FECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD06BD22-0208-4554-A4A2-B8775693FECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD06BD22-0208-4554-A4A2-B8775693FECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96378BBF-E55F-43F7-9726-8669FFCEEB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96378BBF-E55F-43F7-9726-8669FFCEEB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96378BBF-E55F-43F7-9726-8669FFCEEB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96378BBF-E55F-43F7-9726-8669FFCEEB87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
